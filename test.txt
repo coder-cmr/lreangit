@@ -3,3 +3,4 @@ it is a easy test.
 git is free software.
 modified twice.
 modified third.
+git tracks changs.
