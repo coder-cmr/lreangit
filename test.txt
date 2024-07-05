@@ -1,3 +1,4 @@
 i am learning git
 it is a easy test.
 git is free software.
+modified twice.
